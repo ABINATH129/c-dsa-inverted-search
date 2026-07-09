@@ -1,0 +1,12 @@
+at f1.txt
+#0;are;1;f1.txt;1;#
+#6;get;2;f2.txt;1;f1.txt;1;#
+#7;here;2;f2.txt;1;f1.txt;2;#
+#7;hell;2;f2.txt;1;f1.txt;1;#
+#7;hello;1;f1.txt;1;#
+#7;hi;1;f1.txt;1;#
+#9;just;2;f2.txt;1;f1.txt;1;#
+#14;of;2;f2.txt;1;f1.txt;1;#
+#14;out;2;f2.txt;1;f1.txt;1;#
+#19;the;2;f2.txt;1;f1.txt;1;#
+#24;you;1;f1.txt;1;#
